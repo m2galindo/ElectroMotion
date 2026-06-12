@@ -1,4 +1,4 @@
-
+% Codigo de ElectroMotion
 A = 0.003;     
 w = 75.40;       
 B = 0.38;        
