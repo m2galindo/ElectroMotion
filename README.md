@@ -1,4 +1,20 @@
-# ElectroMotion
+
+# Equipo ElectroMotion
+ 
+Reto: Análisis de sistemas electromagnéticos en sistemas ingenieriles
+Tecnológico de Monterrey — Profesor: Hiram Cordero
+ 
+| Nombre | Matrícula |
+|--------|-----------|
+| Santiago Sarmiento Felix | A00227879 |
+| Regina Gutiérrez Mayorga | A01384872 |
+| Leonardo Valdés Pegueros | A00844642 |
+| Marco Alejandro Galindo de la Cruz | A00845553 |
+| Andrés Albino Salinas Assad | A00844462 |
+| Daniela Lozano Cantú | A01287111 |
+ 
+**Profesor:** Hiram Cordero
+
 ## Simulación FEM - Motor/Generador (ElectroMotion)
 
 Script de MATLAB usado para modelar la Fuerza Electromotriz (FEM) inducida
